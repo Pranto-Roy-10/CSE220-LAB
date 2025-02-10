@@ -41,7 +41,7 @@ def playRight(sequence,beats):
 #   for y in beats:
 #     if y==2:
 #         temp1= sequence[len(sequence)-2]
-#         for z in range(len(sequence)-2,0,-2):
+
   return sequence
 
 
