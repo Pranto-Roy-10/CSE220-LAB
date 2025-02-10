@@ -36,12 +36,6 @@ def playRight(sequence,beats):
       for y in range(len(sequence)-1,0,-1):
         sequence[y]=sequence[y-1]
       sequence[0]=temp
-    # if sequence!=None:
-    #     return False
-#   for y in beats:
-#     if y==2:
-#         temp1= sequence[len(sequence)-2]
-
   return sequence
 
 
